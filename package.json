@@ -1,0 +1,29 @@
+{
+  "name": "frunt",
+  "version": "0.1.0",
+  "description": "Frunt is a simple front-end css framework.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruntdev/frunt.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "front-end",
+    "framework"
+  ],
+  "author": "Adam Dorsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fruntdev/frunt/issues"
+  },
+  "homepage": "https://github.com/fruntdev/frunt#readme",
+  "devDependencies": {
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "webpack": "^4.44.0"
+  }
+}
